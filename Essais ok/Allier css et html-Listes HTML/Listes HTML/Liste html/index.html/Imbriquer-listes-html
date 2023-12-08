@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Imbriquer listes html</title>
+  </head>
+
+  <body>
+    <p><u>Liste non-ordonnées dans une liste ordonnées :</u></p>
+    <ol>
+      <li>
+        Partie I
+        <ul>
+          <li>Introduction</li>
+          <li>Auteurs</li>
+          <li>Exemples</li>
+        </ul>
+      </li>
+      <li>Partie II</li>
+      <li>Partie III</li>
+    </ol>
+    <br />
+
+    <p><u>Liste ordonnées dans une liste non-ordonnées :</u></p>
+    <ul>
+      <li>
+        Introduction
+        <ol>
+          <li>Définition</li>
+          <li>Développement</li>
+          <li>Question</li>
+        </ol>
+      </li>
+      <li>Auteurs</li>
+      <li>Exemples</li>
+    </ul>
+  </body>
+</html>

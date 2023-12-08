@@ -1,0 +1,25 @@
+.style1 {
+    text-align: center;
+    color: rgb(44, 217, 53);
+    background-color: rgb(134, 112, 56);
+    border: 4px;
+    border-radius: 12px;
+}
+
+.style2 {
+    color: rgb(235, 229, 229);
+    background-color: rgb(8, 26, 20);
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 6px;
+}
+
+.button {
+    color: yellow;
+    background-color: purple;
+    text-align: center;
+    text-decoration: rgb(162, 0, 255);
+    font-size: 34px;
+    font-weight: 500;
+    font-family: Vivaldi;
+    border-radius: 10px;
+}

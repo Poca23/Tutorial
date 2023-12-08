@@ -1,0 +1,27 @@
+.br-element {
+    text-decoration: double;
+    font-family: Arial;
+    font-weight: bold;
+}
+
+
+.police-écriture1 {
+    font-style: oblique;
+    text-decoration: underline;
+}
+
+
+.police-écriture2 {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+
+.police-écriture3 {
+    text-decoration: underline;
+}
+
+
+.police-écriture4 {
+    font-weight: bold;
+}

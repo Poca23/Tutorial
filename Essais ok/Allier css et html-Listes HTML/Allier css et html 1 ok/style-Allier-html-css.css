@@ -1,0 +1,23 @@
+.style {
+    text-align: center;
+    text-emphasis-position: blue;
+    border: 2px solid purple;
+    border-radius: 10px;
+    color: yellowgreen;
+    background-color: purple;
+}
+
+.button {
+    color: yellow;
+    background-color: purple;
+    text-align: center;
+    text-decoration: double;
+    font-size: 28px;
+    font-weight: 100;
+    font-family: Vivaldi;
+}
+
+.toto {
+    background-color: black;
+    color: white;
+}

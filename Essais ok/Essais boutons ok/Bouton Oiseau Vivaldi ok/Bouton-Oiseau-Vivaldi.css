@@ -1,0 +1,23 @@
+.h1 {
+    font-family: 'Times New Roman';
+    font-size: 12px;
+    font-weight: bold;
+    text-decoration: dotted;
+}
+
+.h3 {
+    font-family: Arial;
+
+}
+
+.p {
+    font-style: italic;
+}
+
+.button {
+    font-size: 54px;
+    font-family: Vivaldi;
+    font-style: italic;
+    color: yellow;
+    background-color: purple;
+}
