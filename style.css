@@ -4,7 +4,6 @@
    text-decoration: none;
    list-style: none;
 }
-
 body {
    font-family: Inter;
    font-size:20px;
@@ -15,14 +14,11 @@ body {
    top: 0;
    left: 0;
    background-color: white;
-  
-}
+ }
 .menu > ul {
    display: flex;
-   list-style: none;
 }
 .menu li a {
-   text-decoration: none;
    color: rgba(2, 0, 0, 0.894);
    padding: 20px 25px;
    display: block;
@@ -31,7 +27,6 @@ body {
    position: relative;
 }
 .sous-nav {
-   list-style: none;
    display: none;
    font-size: 18px;
    font-weight: bold;
@@ -40,11 +35,9 @@ body {
    left: 0;
    background-color: white;
    width:max-content;
-   
 }
 .sous-nav li a:hover {
-  
-   background-color: rgba(89, 83, 83, 0.33);
+    background-color: rgba(89, 83, 83, 0.33);
 }
 .has-sous-nav:hover .sous-nav {
    display: flex;
@@ -55,10 +48,7 @@ body {
    color: white;
    height: 100vh;
    width: 100vw;
-
 }
-
-
 .h1 {
 font-style: italic;
 }     
