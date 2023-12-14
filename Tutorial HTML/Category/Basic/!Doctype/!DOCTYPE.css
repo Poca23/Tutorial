@@ -1,15 +1,28 @@
-* {
-    margin: 0;
-    padding: 0;
-    text-decoration: none;
-    list-style: none;
+.h1 {
+font-weight: bolder;
+color: brown;
 }
 
-.u {
-font-style: underline;
+.p {
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
-img code {
-  width: 50px;
-  position: relative; 
+.p2 {
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(11, 11, 164);
+  }
+
+.Balise {
+  width: 10%;
+  border: 5px;
+  border-color: black;
+}
+
+.Code {
+width: 25%;
+height: 25%;
+border: 5px;
+border-color: black;
 }
