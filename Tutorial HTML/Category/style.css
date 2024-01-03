@@ -8,7 +8,7 @@ body {
    font-family: Inter;
    font-size:20px;
    height: 500vh;
-   background-image: url('../Tutorial HTML/Category/assets/Plage.jpg');
+   background-image: url('assets/Plage.jpg');
    background-size: cover;
    height: 100vh;
    width: 100vw;
