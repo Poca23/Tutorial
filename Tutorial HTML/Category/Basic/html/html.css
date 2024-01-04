@@ -1,31 +1,50 @@
 .h1 {
     font-weight: bolder;
     color: brown;
+    font-style: italic;
 }
-
-
 
 .p1{
+    font-size: 13px;
+    font-family: Arial;
+    font-weight: bold;
 }
 .img1 {
+    width: 17%;
+    margin-left: 13%;
+    margin-top: -1%;
 }
-
 
 .p2 {
+    font-size: 13px;
+    font-family: Arial;
+    font-weight: bold;
 }
 .img2{
+    width: 39%;
+    margin-left: 10%;
+    margin-top: -1%;
 }
-
 
 
 .p3 {
+    font-size: 13px;
+    font-family: Arial;
+    font-weight: bold;
 }
 .img3 {
+    width: 39%;
+    margin-left: 10%;
+    margin-top: -1%;
 }
-
-
 
 .p4 {
+    font-size: 13px;
+    font-family: Arial;
+    font-weight: bold;
 }
 .img4 {
+    width: 9%;
+    margin-left: 10%;
+    margin-top: -1%;
 }
