@@ -71,32 +71,32 @@ body {
 
 /*bouton-haut-de-page*/
 .frame {
-   width: 90%;
+   width: 80%;
    margin: 40px auto;
    margin-left: 85%;
-   margin-top: 30%;
+   margin-top: 28%;
    z-index: 20px;
    position: fixed;
 }
 
 
 button {
-   margin: 20px;
+   margin: 10px;
    z-index: 20px;
-   
+   margin-top: 3%;
 }
 
 .custom-btn {
-   width: 130px;
-   height: 40px;
+   width: 110px;
+   height: 60px;
    color: #fff;
    border-radius: 45%;
-   padding: 10px 25px;
+   padding: 10px 20px;
    font-family: 'Lato', sans-serif;
    font-weight: 500;
    background: transparent;
    cursor: pointer;
-   transition: all 0.3s ease;
+   transition: all 0.5s ease;
    position: relative;
    display: inline-block;
    box-shadow: inset 2px 2px 2px 0px rgba(255, 255, 255, .5),
@@ -122,4 +122,8 @@ button {
       -4px -4px 6px 0 rgba(116, 125, 136, .5),
       inset -4px -4px 6px 0 rgba(255, 255, 255, .2),
       inset 4px 4px 6px 0 rgba(0, 0, 0, .4);
+}
+
+.fleche {
+   font-size: 35px;
 }
