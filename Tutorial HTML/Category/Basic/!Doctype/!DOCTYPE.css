@@ -1,23 +1,35 @@
+
 .h1 {
 font-weight: bolder;
 color: brown;
+text-align: center;
+
 }
 
 .p {
   font-size: 20px;
   font-family: Arial, Helvetica, sans-serif;
+  background-color: white;
+  text-align: center;
+  margin-left: 18%;
+  margin-right: 18%;
 }
 
 .p2 {
   font-size: 20px;
   font-family: Arial, Helvetica, sans-serif;
   color: rgb(11, 11, 164);
-  }
+  background-color: white;
+   text-align: center;
+  margin-left: 18%;
+  margin-right: 18%;
+}
 
 .Balise {
   width: 10%;
   border: 5px;
   border-color: black;
+  margin-left: 45%;
 }
 
 .Code {
@@ -25,4 +37,5 @@ width: 25%;
 height: 25%;
 border: 5px;
 border-color: black;
+margin-left: 37%;
 }
