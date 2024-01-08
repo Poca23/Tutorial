@@ -1,3 +1,4 @@
+
 .h1 {
     font-weight: bolder;
     font-style: italic;
@@ -5,38 +6,49 @@
 }
 
 p {
-font-size: 16px;
-font-family: Arial, Helvetica, sans-serif;
-background-color: white;
-margin-left: 20%;
-margin-right: 20%;
-text-align:justify;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align:justify;
+    opacity: 88%;
 }
 
-.p1 {}
-.img1 {}
 
+.img1 {
+    width: 20%;
+    margin-left: 39%;
+    margin-right: 25%;
+    opacity: 88%;
+}
 
+.img2 {
+    width:45%;
+    margin-left: 27%;
+    opacity: 88%;
+}
 
-.p2 {}
-.img2 {}
+.img3 {
+    width:45%;
+    margin-left: 27%;
+    opacity: 88%;
+}
 
+.img4 {
+    width: 33%;
+    margin-left: 30%;
+    opacity: 88%;
+}
 
+.img5 {
+    width: 33%;
+    margin-left: 30%;
+    opacity: 88%;
+}
 
-.p3 {}
-.img3 {}
-
-
-
-.p4 {}
-.img4 {}
-
-
-
-.p5 {}
-.img5 {}
-
-
-
-.p6 {}
-.img6 {}
+.img6 {
+    width: 10%;
+    margin-left: 40%;
+    opacity: 88%;
+}
