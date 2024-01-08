@@ -1,18 +1,17 @@
 
 .h1 {
-font-weight: bolder;
-color: brown;
-text-align: center;
-
+  font-weight: bolder;
+  font-style: italic;
+  text-align: center;
 }
 
 .p {
-  font-size: 20px;
-  font-family: Arial, Helvetica, sans-serif;
-  background-color: white;
-  text-align: center;
-  margin-left: 18%;
-  margin-right: 18%;
+font-size: 16px;
+font-family: Arial, Helvetica, sans-serif;
+background-color: white;
+margin-left: 20%;
+margin-right: 20%;
+text-align: justify;
 }
 
 .p2 {
@@ -20,7 +19,7 @@ text-align: center;
   font-family: Arial, Helvetica, sans-serif;
   color: rgb(11, 11, 164);
   background-color: white;
-   text-align: center;
+  text-align: center;
   margin-left: 18%;
   margin-right: 18%;
 }
