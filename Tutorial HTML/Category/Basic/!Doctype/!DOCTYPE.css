@@ -8,27 +8,20 @@
 p {
   font-size: 16px;
   font-family: Arial, Helvetica, sans-serif;
-  background-color: white;
+  background-color: rgba(255, 255, 255, 0.818);
   margin-left: 20%;
   margin-right: 20%;
   text-align: justify;
-  opacity: 88%;
+  border-radius: 2px;
 }
 
 
 .Balise {
   width: 10%;
-  border: 5px;
-  border-color: black;
   margin-left: 45%;
-  opacity: 88%;
 }
 
 .Code {
   width: 25%;
-  height: 25%;
-  border: 5px;
-  border-color: black;
   margin-left: 37%;
-  opacity: 88%;
 }
