@@ -90,7 +90,7 @@ button {
    width: 130px;
    height: 40px;
    color: #fff;
-   border-radius: 5px;
+   border-radius: 45%;
    padding: 10px 25px;
    font-family: 'Lato', sans-serif;
    font-weight: 500;
@@ -106,8 +106,8 @@ button {
 }
 
 .btn-2 {
-   background: rgb(96, 9, 240);
-   background: linear-gradient(0deg, rgba(96, 9, 240, 1) 0%, rgba(129, 5, 240, 1) 100%);
+   background: rgba(97, 9, 240, 0.541);
+   background: linear-gradient(0deg, rgba(9, 240, 236, 0.29) 0%, rgba(5, 240, 173, 0.639) 100%);
    border: none;
 
 }
