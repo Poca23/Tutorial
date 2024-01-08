@@ -36,7 +36,8 @@ body {
 /*sous-menu*/
 .menu > ul {
    display: flex;
-   line-height: 23.54px;  
+   line-height: 23.54px;
+
 }
 .menu li a {
    color: white;
@@ -61,8 +62,7 @@ body {
 
 /*hover*/
 .sous-nav li a:hover {
-   background-color: rgba(89, 83, 83, 0.33);
-    
+   background-color: rgba(89, 83, 83, 0.33);    
 }
 .has-sous-nav:hover .sous-nav {
    display: flex;
