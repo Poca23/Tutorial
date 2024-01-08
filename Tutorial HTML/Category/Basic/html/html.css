@@ -1,50 +1,64 @@
 .h1 {
     font-weight: bolder;
-    color: brown;
+    color: rgb(165, 42, 42);
     font-style: italic;
+    text-align: center;
 }
 
 .p1{
-    font-size: 13px;
+    font-size: 23px;
     font-family: Arial;
     font-weight: bold;
+    text-align: center;
+    margin-left: 35%;
+    margin-right: 35%;
+    background-color: white;
 }
 .img1 {
-    width: 17%;
-    margin-left: 13%;
-    margin-top: -1%;
+    width: 18%;
+    margin-left: 41%;
 }
 
 .p2 {
-    font-size: 13px;
+    font-size: 23px;
     font-family: Arial;
     font-weight: bold;
+    text-align: center;
+    margin-left: 35%;
+    margin-right: 35%;
+    background-color: white;
 }
 .img2{
     width: 39%;
-    margin-left: 10%;
-    margin-top: -1%;
+    margin-left: 31%;
 }
-
 
 .p3 {
-    font-size: 13px;
+    font-size: 23px;
     font-family: Arial;
     font-weight: bold;
+    text-align: center;
+    margin-left: 35%;
+    margin-right: 35%;
+    background-color: white;
 }
+
 .img3 {
     width: 39%;
-    margin-left: 10%;
-    margin-top: -1%;
+    margin-left: 31%;;
 }
 
 .p4 {
-    font-size: 13px;
+    font-size: 23px;
     font-family: Arial;
     font-weight: bold;
+    text-align: center;
+    margin-left: 35%;
+    margin-right: 35%;
+    background-color: white;
+    
 }
 .img4 {
-    width: 9%;
-    margin-left: 10%;
-    margin-top: -1%;
+    width: 10%;
+    margin-left: 43%;
 }
